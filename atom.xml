@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kevin Thai]]></title>
+  <link href="http://azuritekevin.github.io/atom.xml" rel="self"/>
+  <link href="http://azuritekevin.github.io/"/>
+  <updated>2016-03-08T18:16:44-05:00</updated>
+  <id>http://azuritekevin.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
