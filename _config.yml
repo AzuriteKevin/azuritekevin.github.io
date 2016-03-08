@@ -2,8 +2,8 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://azuritekevin.github.io
+title: Kevin Thai
 subtitle: A blogging framework for hackers.
 author: Your Name
 simple_search: https://www.google.com/search
@@ -98,4 +98,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
